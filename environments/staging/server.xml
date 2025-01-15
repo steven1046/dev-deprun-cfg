@@ -5,3 +5,5 @@
     </featureManager>
     <application name="app" context-root="/" location="ferret.war" type="war" />
 </server>
+
+<!-- comment 1 -->
